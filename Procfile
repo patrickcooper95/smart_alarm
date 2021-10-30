@@ -1,0 +1,1 @@
+web: python ./cherrypy_test.py
